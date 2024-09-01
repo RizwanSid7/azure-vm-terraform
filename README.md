@@ -1,4 +1,4 @@
-Azure VM Terraform Deployment
+#Azure VM Terraform Deployment
 Welcome! This repository helps you set up a Linux Virtual Machine on Microsoft Azure using Terraform. Whether you’re looking to spin up a new VM for development, testing, or just exploring, you’re in the right place!
 
 What’s Inside?
